@@ -1,0 +1,8 @@
+main table{
+    width: 90%;
+    margin: 5%;
+}
+main th{
+    text-align: left;
+    border-bottom:black solid medium;
+}
